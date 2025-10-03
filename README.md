@@ -1,1 +1,3 @@
 # Arrays---DS
+
+This code solves the Reverse Array problem by reading a list of integers from input, reversing the order of elements, and outputting the reversed list. The reverseArray function uses the built-in List.Reverse() method to reverse the list in place and then returns it. The Main method handles input/output operations, including reading the number of elements, parsing the input line into a list of integers, and writing the reversed list to an output file. Helper methods from System and System.Linq simplify string splitting and type conversion. Overall, the code efficiently leverages built-in functions for a clean and straightforward implementation.
